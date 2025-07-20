@@ -3,7 +3,7 @@ Succession Planning Risk Analysis using Python + Power BI
 # Hogan Development Survey Analysis
 
 This project explores risk factors in executive teams using HDS assessment data.  
-We used **Python (pandas, matplotlib)** and **Power BI** for insights.
+I used **Python (pandas, matplotlib)** and **Power BI** for insights.
 
 ## 📊 Key Files
 - `Hogan Development Survey.ipynb`: Python analysis notebook
