@@ -10,53 +10,56 @@ I used **Python (pandas, matplotlib)** and **Power BI** for insights.
 - `Hogan Development Survey.pbix`: Interactive Power BI dashboard
 - `Data Analysis Exercise -- Template`: Raw HDS scores
 
-## 💡 Summary of Findings
+## 💡 Summary
 - N-1 team shows high risk in **Diligent, Bold, and Skeptical** traits.
 - N-2 team shows higher risk in **Leisurely** and **Cautious**.
 
-## 📊 Summary of Findings
+## 💡 Summary of Findings
 
-### 🔹 N-1 Team (Direct Reports to the CEO)
+### 👥 N-1 Team (Direct Reports to the CEO)
 
-The N-1 team exhibits higher average scores in:
+* This group tends to score higher in **Diligent**, **Bold**, and **Skeptical** traits.
+* That means:
 
-* **Diligent** – A tendency to become overly perfectionistic or micromanaging under stress.
-* **Bold** – May display overconfidence, arrogance, or ignore feedback.
-* **Skeptical** – Can become distrustful, overly critical, or defensive during pressure situations.
+  * They might **try to be perfect** and end up **micromanaging** others.
+  * They could be **very confident**, sometimes even **overconfident** or **not open to feedback**.
+  * Under stress, they may become **doubtful of others** and **very critical**.
 
-🔍 *Implication:*
-These traits suggest strong execution focus and assertiveness but may hinder collaboration if not balanced.
+💭 *What this means:*
+They’re likely to take charge and move fast, but might come off as too pushy or hard to work with if not careful.
 
----
 
-### 🔹 N-2 Team (Next-Level Leaders)
+### 👥 N-2 Team (Reports to N-1 Team)
 
-The N-2 team shows relatively higher scores in:
+* This team scores higher in **Leisurely** and **Cautious** traits.
+* That means:
 
-* **Leisurely** – May be passively resistant to direction or feedback, while appearing cooperative.
-* **Cautious** – Likely to avoid risk or delay decisions out of fear of failure.
+  * They may seem cooperative but might **quietly resist direction or feedback**.
+  * They tend to **avoid risks** and may **take longer to make decisions**.
 
-🔍 *Implication:*
-They are likely more risk-averse, which supports thoughtful execution but could lead to slow action or indecision.
+💭 *What this means:*
+They bring **stability and careful thinking**, but might slow things down or avoid difficult decisions.
 
----
 
-### 🔄 Comparison & Team Dynamics
 
-| Aspect         | N-1 Team                | N-2 Team           |
-| -------------- | ----------------------- | ------------------ |
-| Decision Speed | Fast & bold             | Slow & cautious    |
-| Collaboration  | Controlling & assertive | Reserved & passive |
-| Risk Profile   | Overconfident           | Risk-averse        |
+### 🤝 How These Teams Compare and Can Work Together
 
-✅ **How they can work well together:**
+| Area             | N-1 Team          | N-2 Team           |
+| ---------------- | ----------------- | ------------------ |
+| Decision-Making  | Fast and bold     | Careful and slow   |
+| Leadership Style | Direct and strong | Quiet and reserved |
+| Risk Approach    | Take risks        | Avoid risks        |
 
-* N-1 can drive vision and speed.
-* N-2 can ensure stability and reduce blind spots.
+✅ **They can work well together** if:
 
-⚠️ **Potential tensions:**
+* N-1 leads with energy and vision.
+* N-2 keeps things grounded with thoughtful feedback.
 
-* N-1 may see N-2 as resistant or indecisive.
-* N-2 may view N-1 as controlling or dismissive.
+⚠️ **But tensions may happen** if:
+
+* N-1 feels frustrated by delays.
+* N-2 feels overwhelmed or unheard.
+
+
 
 
